@@ -1,0 +1,13 @@
+{
+    "UsuarioController": {
+        "list": [1],
+        "login":[],
+         "logout":[1,2]
+    },
+    "ProductoController":{
+        "list": [1],
+        "addToCart": [1],
+        "clearCart": [1]
+      
+    }
+}

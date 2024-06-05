@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pantalón",
+        "precio": "29.99",
+        "imagePath": "1_pantalon.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Cinturón",
+        "precio": "19.99",
+        "imagePath": "2_cinturon.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Portátil - HP 15S-EQ1040NS, 15.6 HD, AMD 3020e, 4GB RAM, 128GB SSD, AMD Radeon™, W11 S, Plata",
+        "precio": "359.99",
+        "imagePath": "3_laptop.jpg"
+    }
+]
